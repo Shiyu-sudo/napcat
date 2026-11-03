@@ -1,1 +1,1 @@
-FROM docker.1ms.run/soulter/astrbot:latest
+FROM docker.xuanyuan.me/soulter/astrbot:latest
