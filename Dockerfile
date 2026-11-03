@@ -1,1 +1,1 @@
-FROM mlikiowa/napcat-docker:latest
+FROM soulter/astrbot:latest
