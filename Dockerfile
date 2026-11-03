@@ -1,1 +1,1 @@
-FROM docker.xuanyuan.me/soulter/astrbot:latest
+FROM m.daocloud.io/docker.io/soulter/astrbot:latest
