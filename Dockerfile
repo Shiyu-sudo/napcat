@@ -1,1 +1,1 @@
-FROM m.daocloud.io/docker.io/soulter/astrbot:latest
+ FROM motricseven7/snowluma:latest
